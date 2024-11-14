@@ -46,17 +46,17 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Melissa1221>
-            <img src=https://avatars.githubusercontent.com/u/121834468?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Melissa Iman Noriega/>
-            <br />
-            <sub style="font-size:14px"><b>Melissa Iman Noriega</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/jordigd20>
             <img src=https://avatars.githubusercontent.com/u/60585963?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jordi Gómez Devesa/>
             <br />
             <sub style="font-size:14px"><b>Jordi Gómez Devesa</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Melissa1221>
+            <img src=https://avatars.githubusercontent.com/u/121834468?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Melissa Iman Noriega/>
+            <br />
+            <sub style="font-size:14px"><b>Melissa Iman Noriega</b></sub>
         </a>
     </td>
 </tr>
@@ -76,6 +76,13 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Charlesss-0>
+            <img src=https://avatars.githubusercontent.com/u/132224776?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Charles404/>
+            <br />
+            <sub style="font-size:14px"><b>Charles404</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/gusCreator>
             <img src=https://avatars.githubusercontent.com/u/147654561?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luis Gustavo Sequeiros Condori/>
             <br />
@@ -90,10 +97,26 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/jimenezraul>
+            <img src=https://avatars.githubusercontent.com/u/43713643?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raul J./>
+            <br />
+            <sub style="font-size:14px"><b>Raul J.</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/alesdevux>
             <img src=https://avatars.githubusercontent.com/u/76450853?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=alesdevux/>
             <br />
             <sub style="font-size:14px"><b>alesdevux</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/AlbertLnz>
+            <img src=https://avatars.githubusercontent.com/u/120119395?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=AlbertLnz/>
+            <br />
+            <sub style="font-size:14px"><b>AlbertLnz</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -103,8 +126,6 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <sub style="font-size:14px"><b>Alex Martinez</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Anthonazo>
             <img src=https://avatars.githubusercontent.com/u/118082256?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anthony Moya Ochoa/>
@@ -120,19 +141,14 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/jimenezraul>
-            <img src=https://avatars.githubusercontent.com/u/43713643?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raul J./>
-            <br />
-            <sub style="font-size:14px"><b>Raul J.</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/frodriguezmtnz>
             <img src=https://avatars.githubusercontent.com/u/28347263?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Felipe Rodriguez/>
             <br />
             <sub style="font-size:14px"><b>Felipe Rodriguez</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/juanjk24>
             <img src=https://avatars.githubusercontent.com/u/147955917?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Juan Cuellar/>
@@ -147,8 +163,6 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <sub style="font-size:14px"><b>Víctor, P.</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/IzanMen>
             <img src=https://avatars.githubusercontent.com/u/175528066?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Izan Sánchez Ginés/>
@@ -177,6 +191,8 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <sub style="font-size:14px"><b>Jeremías Giorgi</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/jdmg-it>
             <img src=https://avatars.githubusercontent.com/u/78799535?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=José David Montoya Gallardo/>
@@ -191,8 +207,13 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <sub style="font-size:14px"><b>Miguel Vallina Samaniego</b></sub>
         </a>
     </td>
-</tr>
-<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/NicolasMunozC>
+            <img src=https://avatars.githubusercontent.com/u/84532538?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nicolas Muñoz/>
+            <br />
+            <sub style="font-size:14px"><b>Nicolas Muñoz</b></sub>
+        </a>
+    </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/KoenigDev>
             <img src=https://avatars.githubusercontent.com/u/160176319?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nunu/>
@@ -212,6 +233,15 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <img src=https://avatars.githubusercontent.com/u/108197038?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Víctor Quiñones/>
             <br />
             <sub style="font-size:14px"><b>Víctor Quiñones</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/WachoCode>
+            <img src=https://avatars.githubusercontent.com/u/130874756?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nicolas/>
+            <br />
+            <sub style="font-size:14px"><b>Nicolas</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -235,8 +265,6 @@ Este proyecto es una landing page para InfoJobs, diseñada para proporcionar una
             <sub style="font-size:14px"><b>Houston (Bot)</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/juanqui-art>
             <img src=https://avatars.githubusercontent.com/u/56309315?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=juanqui/>
